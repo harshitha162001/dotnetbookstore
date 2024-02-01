@@ -1,0 +1,5 @@
+D:\dotnetprojects\Bulky\Bulkyweb\obj\Debug\net7.0\Bulkyweb.csproj.AssemblyReference.cache
+D:\dotnetprojects\Bulky\Bulkyweb\obj\Debug\net7.0\Bulkyweb.AssemblyInfoInputs.cache
+D:\dotnetprojects\Bulky\Bulkyweb\obj\Debug\net7.0\Bulkyweb.AssemblyInfo.cs
+D:\dotnetprojects\Bulky\Bulkyweb\obj\Debug\net7.0\Bulkyweb.csproj.CoreCompileInputs.cache
+D:\dotnetprojects\Bulky\Bulkyweb\obj\Debug\net7.0\Bulkyweb.MvcApplicationPartsAssemblyInfo.cache
